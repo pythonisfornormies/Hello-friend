@@ -15,4 +15,6 @@ Note that the text: "Guido" and "16" are entered by the **user** running the pro
 is generated *dynamically* when you run the program, based on the name and age that the user enters.
 
 Please see the short [example of using ```input```]
-(https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/TUTORIAL:-Introduction-to-Github-with-Runpython#input) for clues as to how you might go about writing this program.
+(https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/TUTORIAL:-Introduction-to-Github-with-Runpython#input) for clues as to how you might go about writing this program. You will probably also have to understand the 
+[questions](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/TUTORIAL:-Introduction-to-Github-with-Runpython#questions-1)
+that follow.
