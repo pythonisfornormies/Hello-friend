@@ -20,6 +20,6 @@ on the name and age that the user enters.
 name = input("Please tell me your name:")
 age = input("Please tell me your age:")
 
-mod = int(age) - 26
+mod = 26 - int(age)
 print("Hello,",name,"!")
 print("You are",mod,"years older than Python!")
